@@ -89,3 +89,5 @@ $${1 - (\frac{31}{32})^{150} > 99 \%}$$
 ## 参考
 
 1. [台湾大学林轩田机器学习基石课程学习笔记4 -- Feasibility of Learning](http://blog.csdn.net/red_stone1/article/details/71082934)
+1. [Hoeffding's inequality - Wikipedia](https://en.wikipedia.org/wiki/Hoeffding's_inequality)
+1. [Probably approximately correct learning - Wikipedia](https://en.wikipedia.org/wiki/Probably_approximately_correct_learning)

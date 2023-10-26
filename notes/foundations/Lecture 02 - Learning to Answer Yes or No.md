@@ -98,3 +98,4 @@ $${\frac{w_f^T}{||w_f||} \frac{w_T}{||w_T||} \geq \sqrt{T} \cdot constant}$$
 ## 参考
 
 1. [台湾大学林轩田机器学习基石课程学习笔记2 -- Learning to Answer Yes/No](http://blog.csdn.net/red_stone1/article/details/70866527)
+1. [NP (复杂度) - 维基百科，自由的百科全书 (wikipedia.org)](https://zh.wikipedia.org/zh-hans/NP_(複雜度))
